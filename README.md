@@ -7,4 +7,4 @@ This project is built using the MERN stack.
 - express for backend in node env
 - MomgoDB for database
 
-Note to reviewers : if you want to replicate this project you'll need access to mongo account or i can provide dummy data.
+Note to reviewer : if you want to replicate this project you'll need access to mongo account or i can provide you dummy data.
