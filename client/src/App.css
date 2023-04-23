@@ -1,0 +1,15 @@
+.app{
+    background-color: rgba(255, 255, 255, 0.83);
+    height: auto;
+    width: auto;
+    min-height: 100vh;
+    font-family: sans-serif;
+}.searchbar-container{
+    padding-top: 20vh;
+    width: 40%;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    min-width: 200px;
+    
+}

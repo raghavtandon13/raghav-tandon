@@ -1,0 +1,25 @@
+.result-card{
+    background-color: rgba(255, 255, 255, 0.891);
+    width: 70vw;
+    margin-left: -15vw;
+    height:30vh;
+    
+    
+    align-items: center;
+    padding-right: 28px;
+    margin-top: 10px;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: row;
+}
+.company-desc{
+    text-align: center;
+}
+.company-img{
+    height: 100%;
+    width: 50%;
+    border-radius: 5px;
+}
+img{
+    border-radius: 10px 0px 0px 10px;
+}
